@@ -23,6 +23,9 @@ export default function App() {
 
     <View style={styles.container}>
       <TitleBar />
+
+      {/* LIST OF ITEMS HERE */}
+
       <NavBar />
     </View>
   );
